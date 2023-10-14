@@ -34,11 +34,11 @@
 
 ## Inspiration for the Project:
 
-It has been estimated that more than one million adoptable dogs and cats are euthanized in the United States each year. This happens for the reason that there are too many pets that are enrolled into shelters and only a few people consider adoption when they look out for a pet.
+It has been estimated that more than one million adoptable dogs and cats are euthanized(Put to Death) in the United States each year. This happens due to the fact that there are too many pets enrolled into shelters and only a few people consider adoption when they look out for a pet.
 
 **The number of euthanized animals can be reduced drastically if more people adopt pets instead of buying them from stores. When you adopt an animal, you save a lovely life by making them a part of your family as well as open up a shelter space for an animal who might be in need of one desperately.**
 
-When our team heard about the animals that were in danger each year, it became a goal for us to help these speechless beings somehow. After brainstorming for a long time we came up with the idea of **PetMe**. We believe in the policy of saving animals and thus saving lives. Every life matters and we wish to be the part of the change that is making the same possible.
+When our team heard about the animals that were in danger each year, it became a goal for us to help these speechless beings somehow. After brainstorming for a long time , we came up with the idea of **PetMe**. We believe in the policy of saving animals and thus saving countless desperate lives. Every life matters and we wish to be the part of the change that is making the same possible.
 
 
 ## Features of PetMe at a Glance
@@ -62,7 +62,7 @@ For a brief explanation about PetMe, you can watch the following video.
 [<img src="https://i.imgur.com/8gEUuwt.png" width="50%">](https://youtu.be/U1EQjtT-G8E)
  
 Additional features:
-- All the data is stored in the database so when a person wishes to adopt or donate an animal, their information will be auto-filled using the database. 
+- All the data is stored in the database so when a person wishes to adopt or donate an animal, their information will be auto-filled by fetching from the database. 
 - Users can use the `Contact` page to drop in their details for a call with one of the team members. 
 
 ## View our Website:
